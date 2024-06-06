@@ -1,1 +1,1 @@
-# ClassicDiscord
+# Classic Discord
